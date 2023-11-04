@@ -1,3 +1,5 @@
+**!!! Merge multiple projects into one project and use submodules to manage them: [New Project](https://github.com/pangliang/Cities-Skyline2-Mods) !!!**
+
 # Cities Skylines 2 Modding - ChangeWeather
 Mod for Cities Skylines 2. Toggle precipitation by hotkey ctrl+shift+r
 
